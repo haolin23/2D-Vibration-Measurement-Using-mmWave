@@ -19,6 +19,7 @@
 - **Distance and Angle Estimation**: Chirp-Z transform and MUSIC algorithm are used to estimate the distance and angle parameters with high resolutions.
 - **2D Vibration Estimation**: Based on the established geometric model, Taylor's expansion is applied to calculate the 2D vibration along the X-axis and Y-axis. The displacement and frequency along each axis and the trajectory can then be obtained.
 
+##
 - **More details can be found in our paper "m2Vib: 2D Vibration Measurement Using a Single mmWave Radar"**.
 - You can get partial mmWave data from [here](https://pan.baidu.com/s/1NusPUI72karg5FebRWfwug?pwd=5zxc).
 
