@@ -7,3 +7,5 @@
 - A method for measuring 2D vibrations using millimeter waves.
 
 - You can get mmWave data from [here](https://pan.baidu.com/s/1NusPUI72karg5FebRWfwug?pwd=5zxc)
+
+- More details can be found in our paper "m2Vib: 2D Vibration Measurement Using a Single mmWave Radar".
