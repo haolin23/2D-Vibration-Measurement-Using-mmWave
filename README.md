@@ -4,4 +4,4 @@
 
 </div>
 
-- You can get data from [here](https://pan.baidu.com/s/1NusPUI72karg5FebRWfwug?pwd=5zxc)
+- You can get mmWave data from [here](https://pan.baidu.com/s/1NusPUI72karg5FebRWfwug?pwd=5zxc)
